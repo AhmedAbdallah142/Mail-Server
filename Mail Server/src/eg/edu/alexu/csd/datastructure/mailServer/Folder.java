@@ -8,7 +8,6 @@ public class Folder implements IFolder{
 		this.setFolderPath(null);
 	}
 	
-	
 	@Override
 	public String getFolderPath() {
 		return folderPath;
